@@ -45,4 +45,27 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+🧑🏻‍💻 About Me
+</h3>
+
+<a href="https://github.com/paulofreitas-py" alt="paulofreitas_py">
+<img src="https://github.com/paulofreitas-py.png" alt="Paulo Freitas @paulofreitas.py" width="100px" style="border-radius: 100%">
+<br />
+ <sub><b>Paulo Freitas</b></sub>
+</a>
+
+<div style="margin: 20px 0" />
+
+[facebook]: https://facebook.com/paulofreitas.py
+[twitter]: https://twitter.com/paulofreitas_py
+[youtube]: https://youtube.com/th3hydr4
+[instagram]: https://instagram.com/paulofreitas.py
+[linkedin]: https://www.linkedin.com/in/paulofreitas-py/
+[gitlab]: https://gitlab.com/paulofreitas-py
+
+[<img src="https://img.shields.io/badge/Facebook%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>][facebook] [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>][twitter]
+
+[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>][linkedin] [<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>][instagram]
+
+[<img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>][youtube] [<img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
+
