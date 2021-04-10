@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".image/resultados.png" width="100%">
+  <img alt="dev.finances" src=".image/resultado.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
