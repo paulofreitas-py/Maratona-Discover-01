@@ -45,7 +45,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-##🧑🏻‍💻 Feito Por
+## 🧑🏻‍💻 Feito Por
 
 
 <a href="https://github.com/paulofreitas-py" alt="paulofreitas_py">
