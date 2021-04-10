@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".image/resultado.png" width="100%">
+  <img alt="dev.finances" src="https://th3hydr4.files.wordpress.com/2021/04/design-sem-nome.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
