@@ -45,8 +45,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-🧑🏻‍💻 About Me
-</h3>
+##🧑🏻‍💻 Feito Por
+
 
 <a href="https://github.com/paulofreitas-py" alt="paulofreitas_py">
 <img src="https://github.com/paulofreitas-py.png" alt="Paulo Freitas @paulofreitas.py" width="100px" style="border-radius: 100%">
